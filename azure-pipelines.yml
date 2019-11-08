@@ -14,7 +14,7 @@ resources:
     repository: test
     trigger: 
       tags:
-      - alph*
+      - alpha*
 
 pool:
   vmImageName: 'ubuntu-latest'
