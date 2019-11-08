@@ -10,7 +10,7 @@ resources:
     type: ACR
     azureSubscription: arm-rmdev-anumitareg
     resourceGroup: anumitaReg
-    registry: ajacr1
+    registry: ajAcr1
     repository: test
     trigger: 
       tags:
